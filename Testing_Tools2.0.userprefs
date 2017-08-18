@@ -1,0 +1,37 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\Av1_Editor.cs">
+    <Files>
+      <File FileName="Assets\Editor\LerpTextEditor.cs" Line="18" Column="3" />
+      <File FileName="Assets\Editor\TestBehaviour_Editor.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\TestBehaviour.cs" Line="18" Column="19" />
+      <File FileName="Assets\Editor\Av1_Editor.cs" Line="18" Column="13" />
+      <File FileName="Assets\Scripts\Av1.cs" Line="15" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Testing_Tools2.0" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+            <Node name="Assembly-CSharp-Editor" expanded="True">
+              <Node name="Editor" expanded="True">
+                <Node name="Av1_Editor.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Testing_Tools2.0" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
